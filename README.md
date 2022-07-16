@@ -1,6 +1,8 @@
 # Midterm-Project-1
 Midterm Project 1: 
 
+#**THIS IS A VERSION UPDATED WITH TYPESCRIPT**
+
 GOAL OF GAME: 
 Get your opponent's health to 0 by clicking any of the 4 action buttons. 
 
